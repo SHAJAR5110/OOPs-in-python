@@ -75,4 +75,5 @@ Each Python file in this repository includes:
 * Proper naming conventions
 * Simple, beginner-friendly examples
 
-Happy Learning! 🎓
+Happy Learning.! 🎓
+
