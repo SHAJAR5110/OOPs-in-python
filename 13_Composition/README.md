@@ -22,14 +22,11 @@ Composition means one class contains another class as an attribute. In this exam
 
 ```python
 class Car:
-    def __init__(self, name, engine):
+    def __init__(self, name):
         self.name = name
-        self.engine = engine
+        self.engine = Engine()
 ```
 
-The `engine` parameter is expected to be an object of the `Engine` class.
-
----
 
 
 ## 📌 Summary
